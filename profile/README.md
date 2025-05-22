@@ -20,7 +20,7 @@
 
 * **Logic-in-Memory architectures** – design space exploration exploiting logic-in-memory paradigm and open RTL flows  
 * **Field-Coupled Nanocomputing (FCN)** – simulation, synthesis, verification
-* **IoT Low‑Power Systems** – energy‑efficient IoT systems, optimization, monitoring, AI on the edge
+* **IoT & Edge‑AI Systems** – energy‑efficient IoT systems, optimization, monitoring, AI on the edge
 * **Quantum control & instrumentation** – firmware, RTL design, drivers and calibration tools
 * **Beyond-CMOS CAD** – new synthesis, placement and EDA algorithms
 
