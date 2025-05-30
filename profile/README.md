@@ -23,6 +23,7 @@
 * **IoT & Edge‑AI Systems** – energy‑efficient IoT systems, optimization, monitoring, AI on the edge
 * **Quantum control & instrumentation** – firmware, RTL design, drivers and calibration tools
 * **Beyond-CMOS CAD** – new synthesis, placement and EDA algorithms
+* **Nanoelectronics** - nanocomputing, nanosensing, molecular electronics
 
 Our goal is to bridge the gap between *emerging devices*, *classical* and *quantum* world, enabling rapid, reproducible research.
 
